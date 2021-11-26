@@ -1,5 +1,13 @@
 # technojam-task-Web-Development
-
+# my approach for this contact form:
+first of all just made the overall skeleton of the form i.e html, them i used css for styling and i thought that orange colour would be nice.
+# Difficulty that i faced during this task:
+aligning, padding, margin confuses me a lot that why this still have some issuses . i cannot able to align properly the Heading and the form layout propely.
+# About Myself :
+My name is Gaurav Kumar Thakur, i am from muzaffarpur, Bihar.
+Making something by myself always gives me a good feeling.
+I love Making Music, Playing Guitar.
+# code for My Contact Form
 <!DOCTYPE html>
 <html>
     <head>
